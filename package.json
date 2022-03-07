@@ -1,0 +1,26 @@
+{
+  "name": "puppeteer-demo",
+  "version": "1.0.0",
+  "description": "puppeteer-demo",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djune/puppeteer-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/djune/puppeteer-demo/issues"
+  },
+  "homepage": "https://github.com/djune/puppeteer-demo#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15",
+    "puppeteer": "^13.4.1"
+  },
+  "devDependencies": {}
+}
